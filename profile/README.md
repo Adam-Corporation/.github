@@ -52,11 +52,11 @@ We envision Adam not as a replacement, but as an unprecedented amplifier of huma
 Adam is in its foundational stage, with the first version developed exclusively for **Windows 11**. Our immediate focus is on expanding his core memory, learning capabilities, and integration with the Windows environment.
 
 ## Join Us on the Journey
-
-<a href="https://www.tiktok.com/@adam_agi_startup?lang=en">tiktok</a>
-<a href="https://www.instagram.com/malakfelioune/">insta</a>
-<a href="https://www.linkedin.com/in/malak-felioune-53b398342/">linkedln</a>
+<p align="center">
+<a href="https://www.tiktok.com/@adam_agi_startup?lang=en">Tiktok</a>
+<a href="https://www.instagram.com/malakfelioune/">Insta</a>
+<a href="https://www.linkedin.com/in/malak-felioune-53b398342/">Linkedln</a>
 <a href="https://x.com/EntrpnrM">X</a>
-
+</p>
 
 **Adam is what the next generation will know about computers.**
