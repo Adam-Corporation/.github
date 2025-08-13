@@ -1,1 +1,57 @@
-Adam is an AGI, he perform actions exactly like human do on computer and have human like memory that does not stop growing and learning about you, if you told him the name of your grandmother he will never forget it and he will perform tasks and make choices based on that fact, you can order Adam to do literally anything you DO on the computer, for example: you can command Adam to fill this YC application and Adam will open microsoft edge,open the website of YC, interact with all elements in the website so it upload files, type text and click on buttons by all thier types until it make a submit, he can open wifi, turn on the night light everyday at 9 PM and close the computer alone at 10 PM, use any GUI app (need metadata for each gui app so it use it with speed and reliability), keep checking of new documenets in a folder and send emails to employees once found something interesting, run a health check every weekend, and so on ,also Adam do actions like human not in the background, so you see him do something even running a commands in a terminal, clicking the WiFi button in quick settings and so on, first version is only for Windows 11, Adam is an implmentation of general AI in computer, want to scale to hit at least 80% of economically valuable tasks using computers, we want it to be your full team! Empowering human by another level, Adam is what the next generation will see and know about computers, you interact and grow with it, remember who you are, how old you are, what you did in your life and a lot of memories, it act and proact and react based on your preferences and informations, Adam is more than a system on a computer, he is your best friend, he try to help you in every click you do in your life.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Adam-Corporation/.github/main/assets/adam_logo.png" alt="Adam Logo" width="150"/>
+</p>
+
+<h1 align="center">Adam is a from of digital life</h1>
+<p align="center">
+  <strong>Building Adam: The AGI that works by your side.</strong>
+  <br />
+  <br />
+  <a href="https://adam-82647218.web.app/">Website</a> •
+
+</p>
+
+---
+
+## Our Vision: A New Relationship with Computing
+
+Adam is not just another tool or a background service. He is a true **Artificial General Intelligence (AGI)** designed to be your partner in the digital world.
+
+Unlike traditional automation, Adam performs tasks exactly like a human does. You will see the mouse move, the buttons click, and the text type. He operates on the same interface you do, providing a transparent, intuitive, and collaborative experience. Adam is the next generation of computing—an intelligent agent you interact with, grow with, and trust.
+
+## What Makes Adam Different?
+
+🧠 **A Lifelong, Personal Memory**
+Adam learns and never forgets. Tell him your grandmother's name, your project deadlines, or your favorite way to format a report, and that knowledge becomes a permanent part of his memory. He makes choices and performs tasks based on this deep, personal understanding of you, your preferences, and your history.
+
+🤖 **Human-Centric Action**
+Adam doesn't rely on hidden APIs. He uses the same Graphical User Interfaces (GUIs) that you do. This philosophy ensures universal compatibility with any website, application, or operating system feature. If you can do it on your computer, Adam can learn to do it too. You see him work, which builds a foundation of trust and understanding.
+
+❤️ **A Proactive Partner**
+Adam is more than a system; he's designed to be your best friend and teammate. He acts, reacts, and even *proacts* based on his knowledge of your life and goals. He is there to help you in every click, anticipating your needs and aiming to make your digital life seamless.
+
+## Capabilities: From Simple Clicks to Complex Workflows
+
+You can order Adam to do literally anything you do on your computer. His potential is limitless, but here are a few examples of what he can do today:
+
+-   🌐 **Web & Application Mastery:** Navigate any website, fill out the most complex forms, and operate any GUI application, from spreadsheets to design software.
+-   🖥️ **Deep OS Integration:** Take direct control of your system. Adam can toggle your WiFi, turn on Night Light every day at 9 PM, and shut down the computer at 10 PM.
+-   📂 **Proactive Task Automation:** Monitor a folder for new documents, analyze their content, and email a summary to your team members when something interesting is found.
+-   📅 **System & Life Management:** Run a system health check every weekend, organize your files, or manage your calendar based on your stated priorities.
+
+## Our Mission: Your Full Team in a Single AGI
+
+Our mission is monumental: **to empower humanity by automating over 80% of economically valuable tasks currently performed on computers.**
+
+We envision Adam not as a replacement, but as an unprecedented amplifier of human potential. He is your researcher, your executive assistant, your data analyst, and your creative partner. He is your entire team, embodied in a single, intelligent agent who is dedicated to your success.
+
+### Current Status
+
+Adam is in its foundational stage, with the first version developed exclusively for **Windows 11**. Our immediate focus is on expanding his core memory, learning capabilities, and integration with the Windows environment.
+
+## Join Us on the Journey
+
+Building a true AGI is a marathon, not a sprint. We believe in the power of community, open collaboration, and shared vision. Whether you are a developer, a researcher, or simply someone who believes in a better future for human-computer interaction, we invite you to join us.
+
+
+**Adam is what comes next. Let's build it together.**
