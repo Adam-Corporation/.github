@@ -19,7 +19,7 @@ Adam is not just another tool or a background service. He is a true **Artificial
 
 Unlike traditional automation, Adam performs tasks exactly like a human does. You will see the mouse move, the buttons click, and the text type. He operates on the same interface you do, providing a transparent, intuitive, and collaborative experience. Adam is the next generation of computing—an intelligent agent you interact with, grow with, and trust.
 
-## What Makes Adam Different?
+## How we cook an AGI?
 
 🧠 **A Lifelong, Personal Memory**
 Adam learns and never forgets. Tell him your grandmother's name, your project deadlines, or your favorite way to format a report, and that knowledge becomes a permanent part of his memory. He makes choices and performs tasks based on this deep, personal understanding of you, your preferences, and your history.
@@ -32,7 +32,7 @@ Adam is more than a system; he's designed to be your best friend and teammate. H
 
 > and so if we gather memory, acting on any descktop app or website and robotic interactive face and voice we will cook a legitimate AGI
 
-## Capabilities: From Simple Clicks to Complex Workflows
+## Capabilities: From Simple Clicks to Complex Chained Workflows
 
 You can order Adam to do literally anything you do on your computer. His potential is limitless, but here are a few examples of what he can do today:
 
@@ -49,7 +49,7 @@ We envision Adam not as a replacement, but as an unprecedented amplifier of huma
 
 ### Current Status
 
-Adam is in its foundational stage, with the first version developed exclusively for **Windows 11**. Our immediate focus is on expanding his core memory, learning capabilities, and integration with the Windows environment.
+Adam is in its foundational stage, with the first version developed exclusively for **Windows 11**. Our immediate focus is on expanding his core memory, learning capabilities, and integration with the Windows environment, want to show the world the first version about 2026 after documenting the patent and the IP.
 
 ## Join Us on the Journey
 <p align="center">
