@@ -53,7 +53,10 @@ Adam is in its foundational stage, with the first version developed exclusively 
 
 ## Join Us on the Journey
 
-Building a true AGI is a marathon, not a sprint. We believe in the power of community, open collaboration, and shared vision. Whether you are a developer, a researcher, or simply someone who believes in a better future for human-computer interaction, we invite you to join us.
+<a href="https://www.tiktok.com/@adam_agi_startup?lang=en">tiktok</a>
+<a href="https://www.instagram.com/malakfelioune/">insta</a>
+<a href="https://www.linkedin.com/in/malak-felioune-53b398342/">linkedln</a>
+<a href="https://x.com/EntrpnrM">X</a>
 
 
-**Adam is what comes next. Let's build it together.**
+**Adam is what the next generation will know about computers.**
