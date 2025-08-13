@@ -58,5 +58,6 @@ Adam is in its foundational stage, with the first version developed exclusively 
 <a href="https://www.linkedin.com/in/malak-felioune-53b398342/">Linkedln</a>
 <a href="https://x.com/EntrpnrM">X</a>
 </p>
-
-**Adam is what the next generation will know about computers.**
+<p align="center">
+> **Adam is what the next generation will know about computers.**
+</p>
