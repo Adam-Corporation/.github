@@ -13,7 +13,7 @@
 
 ---
 
-##A New Relationship with computers
+## A New Relationship With Computer
 
 Adam is not just another tool or a background service. He is a true **Artificial General Intelligence (AGI)** designed to be your partner in the digital world.
 
