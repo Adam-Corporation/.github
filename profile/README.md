@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Adam-Corporation/.github/blob/main/main/assets/adam_logo.png" alt="Adam Logo" width="500"/>
+  <img src="https://github.com/Adam-Corporation/.github/blob/main/main/assets/adam_log.png" alt="Adam Logo" width="500"/>
 </p>
 
 <h1 align="center">Adam is a from of digital life</h1>
