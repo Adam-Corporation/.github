@@ -59,5 +59,5 @@ Adam is in its foundational stage, with the first version developed exclusively 
 <a href="https://x.com/EntrpnrM">X</a>
 </p>
 <p align="center">
-> **Adam is what the next generation will know about computers.**
+ **Adam is what the next generation will know about computers.**
 </p>
