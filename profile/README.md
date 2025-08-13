@@ -4,7 +4,7 @@
 
 <h1 align="center">first AGI & from of digital life</h1>
 <p align="center">
-  <strong>Building Adam: The AGI that works by your side.</strong>
+  <strong>Building Adam: The AGI that works by your side, the computer you saw when you were a child in cartoons.</strong>
   <br />
   <br />
   <p align="center">
