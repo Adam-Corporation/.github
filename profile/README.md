@@ -30,6 +30,8 @@ Adam doesn't rely on hidden APIs. He uses the same Graphical User Interfaces (GU
 ❤️ **A Proactive Partner**
 Adam is more than a system; he's designed to be your best friend and teammate. He acts, reacts, and even *proacts* based on his knowledge of your life and goals. He is there to help you in every click, anticipating your needs and aiming to make your digital life seamless.
 
+> and so if we gather memory, acting on any descktop app or website and robotic interactive face and voice we will cook a legitimate AGI
+
 ## Capabilities: From Simple Clicks to Complex Workflows
 
 You can order Adam to do literally anything you do on your computer. His potential is limitless, but here are a few examples of what he can do today:
