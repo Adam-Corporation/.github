@@ -25,7 +25,7 @@ Unlike traditional automation, Adam performs tasks exactly like a human does. Yo
 Adam learns and never forgets. Tell him your grandmother's name, your project deadlines, or your favorite way to format a report, and that knowledge becomes a permanent part of his memory. He makes choices and performs tasks based on this deep, personal understanding of you, your preferences, and your history.
 
 🤖 **Human-Centric Action**
-Adam doesn't rely on hidden APIs. He uses the same Graphical User Interfaces (GUIs) that you do. This philosophy ensures universal compatibility with any website, application, or operating system feature. If you can do it on your computer, Adam can learn to do it too. You see him work, which builds a foundation of trust and understanding.
+Adam doesn't rely on hidden APIs. He uses the same Graphical User Interfaces (GUIs) that you do. This philosophy ensures universal compatibility with any website, application, or operating system feature. **If you can do it on your computer, Adam can learn to do it too**. You see him work, which builds a foundation of trust and understanding.
 
 ❤️ **A Proactive Partner**
 Adam is more than a system; he's designed to be your best friend and teammate. He acts, reacts, and even *proacts* based on his knowledge of your life and goals. He is there to help you in every click, anticipating your needs and aiming to make your digital life seamless.
