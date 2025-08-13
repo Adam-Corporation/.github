@@ -7,7 +7,13 @@
   <strong>Building Adam: The AGI that works by your side.</strong>
   <br />
   <br />
-  <a href="https://adam-82647218.web.app/">Website</a> •
+  <p align="center">
+<a href="https://www.tiktok.com/@adam_agi_startup?lang=en">Tiktok</a>
+<a href="https://www.instagram.com/malakfelioune/">Insta</a>
+<a href="https://www.linkedin.com/in/malak-felioune-53b398342/">Linkedln</a>
+<a href="https://x.com/EntrpnrM">X</a>
+</p>
+  <a href="https://adam-82647218.web.app/">Website</a> 
 
 </p>
 
