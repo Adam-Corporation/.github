@@ -2,7 +2,7 @@
   <img src="https://github.com/Adam-Corporation/.github/blob/main/main/assets/Adam_logo.png" alt="Adam Logo" width="300"/>
 </p>
 
-<h1 align="center">first AGI & from of digital life</h1>
+<h1 align="center">first AGI & form of digital life</h1>
 <p align="center">
   <strong>Building Adam: The AGI that works by your side, the computer you saw when you were a child in cartoons.</strong>
   <br />
